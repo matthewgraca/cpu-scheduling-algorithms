@@ -40,7 +40,7 @@
               <manifest>
                 <addClasspath>true</addClasspath>
                 <classpathPrefix>lib/</classpathPrefix>
-                <mainClass>com.mgraca.app.MultiThreadedSortingApp</mainClass>
+                <mainClass>com.mgraca.app.CpuSchedulingAlgorithmsApp</mainClass>
               </manifest>
             </archive>
           </configuration>
